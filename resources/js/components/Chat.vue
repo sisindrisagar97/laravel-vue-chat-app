@@ -210,7 +210,7 @@ export default {
             this.$q.notify({
               type: "positive",
               position:"top-right",
-              message: `New message from received!`,
+              message: `New message received!`,
             });
           } else {
             if (!this.unreadMessages[event.from]) {
