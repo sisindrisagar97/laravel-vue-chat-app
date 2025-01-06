@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "watch": "vite build --watch"
+  },
+  "dependencies": {
+    "@quasar/vite-plugin": "^1.8.1",
+    "axios": "^1.7.9",
+    "laravel-echo": "^1.17.1",
+    "pusher-js": "^8.4.0-rc2",
+    "quasar": "^2.17.6",
+    "sass": "^1.83.1",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@quasar/extras": "^1.16.15",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "laravel-vite-plugin": "^1.1.1",
+    "sass-embedded": "^1.83.1",
+    "vite": "^6.0.7"
+  }
+}
